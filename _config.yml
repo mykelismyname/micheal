@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 title: Micheal Abaho
 name: "Micheal Abaho"
 url: https://michealabaho.github.io/
@@ -7,9 +6,11 @@ site.locale: "en-US"
 github:
   is_user_page: true
   is_project_page: false
-twitter_username: i_beltagy
-og_image: assets/logo.jpg
+twitter_username: mile265
+og_image: img/micheal.jpeg
+theme: jekyll-theme-minimal
 social:
   type: Person
   links:
     - "https://www.linkedin.com/in/micheal-abaho-56a6a250/"
+    - "https://scholar.google.com/citations?user=uLDa-6EAAAAJ&hl=en"
