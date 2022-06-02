@@ -19,5 +19,8 @@ European Journal for Biomedical Informatics, Micheal et al [pdf](https://bit.ly/
 ▪ “Correcting crowdsourced annotations to improve detection of outcome-types in Evidence-Based
 Medicine.” In KDH@IJCAI, pp 1-5. 2019.  Micheal et al  [pdf](http://ceur-ws.org/Vol-2429/)
 
-
+## Talks and Events
+- Medical Research council (MRC) Clinical training fellowship teaching on AI and its applications in health care (April 8 2022)
+- 
+- Monthly talks on Natural Language Processing applications, University of Liverpool, Jan 2019 – May 2022
 
