@@ -31,9 +31,13 @@ Taken on duties in a Teaching Assistant role on Computer Science Modules
 - Scripting Languages
 
 ## Others
+Reviewer - Association for Computational Linguistics (ACL) Rolling Review (2021 - Present)
+
 Freelance Data Scientist
 
 ## Contacts
 m.abaho@liverpool.ac.uk
+
 michealabaho265@gmail.com
+
 +44 7491574501
