@@ -9,10 +9,13 @@ AI is something I enjoy tinkering with, particularly making use of Natural Langu
 ## Rcent works
 ▪ “Position-based Prompting for health outcome generation” In Biomedical Natural Language
 Process, ACL, May, 2022, Micheal et al, [pdf](https://arxiv.org/pdf/2204.03489.pdf)
+
 ▪ “Detect and Classify--Joint Span Detection and Classification for Health Outcomes”, EMNLP Nov 2021
 Micheal et al, [pdf](https://aclanthology.org/2021.emnlp-main.686/)
+
 ▪ “Assessment of contextualised representations in detecting outcome phrases in clinical trials” In
 European Journal for Biomedical Informatics, Micheal et al [pdf](https://bit.ly/3H6Vv0j)
+
 ▪ “Correcting crowdsourced annotations to improve detection of outcome-types in Evidence-Based
 Medicine.” In KDH@IJCAI, pp 1-5. 2019.  Micheal et al  [pdf](http://ceur-ws.org/Vol-2429/)
 
