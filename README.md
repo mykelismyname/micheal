@@ -4,7 +4,7 @@ A Machine learning scientist, a Data Scientist, an Artificial Intelligence Resea
 
 AI is something I enjoy tinkering with, particularly making use of Natural Language Processing to simplify the way humans understand and communicate through written text. I'm keen on Few-shot & Zero-shot learning, Multi-task learning, Natural Language Generation, Non-autoregressive language generation, Entity recognition, Prompt based learning, Information retrieval, Multi-label text classification etc.
 
-## Rcent works
+## Recent works
 ▪ “Position-based Prompting for health outcome generation” In Biomedical Natural Language
 Process, ACL, May, 2022, Micheal et al, [pdf](https://arxiv.org/pdf/2204.03489.pdf)
 
