@@ -2,7 +2,7 @@ I am currently working as a Research Scientist (NLP) at [NEC Laboratories Europe
 
 ## Research Interests
 
-My research interests involve making use of Natural Language Processing to simplify the way humans understand and communicate through written text. I'm keen on Few-shot & Zero-shot learning, Multi-task learning, Natural Language Generation, Non-autoregressive language generation, Entity recognition, Prompt based learning, Information retrieval, Multi-label text classification etc.
+My research interests span applications and topics pertaining to Machine learning and Natural language processing (NLP). I have particularly worked on problems such as information extraction, text generation and others with an objective of simplify the way humans understand and communicate through written text. I'm keen on Representation learning, Few-shot & Zero-shot learning, Multi-task learning, Natural Language Generation, Non-autoregressive language generation, Entity recognition, Prompt based learning, Information retrieval, Multi-label text classification etc.
 
 ## Recent works
 ▪ “Towards Dense retrieval knowledge graph aumenaiton” Oct 2022, under review.
