@@ -1,4 +1,6 @@
-I am currently working as a Research Scientist (NLP) at [NEC Laboratories Europe (Heidelberg)](https://www.neclab.eu/). Generally, I enjoy working on Machine learning, Data Science and Artificial Intelligence problems. I have in the past had experiences in software, networks and systems administration.  I recently completed my PhD in Machine Learning and Natural Language Processing (NLP) specializing in Biomedical Information Extraction at the University of Liverpool working with [Danushka Bollegala](https://danushka.net/), [Paula Williamson](https://www.liverpool.ac.uk/population-health/staff/paula-williamson/) and [Susanna Dodd](https://www.liverpool.ac.uk/population-health/staff/susanna-dodd/).
+I am currently working as a Research Scientist (NLP) at [NEC Laboratories Europe (Heidelberg)](https://www.neclab.eu/). 
+
+Besides Machine learning, Data Science and Artificial Intelligence, I have in the past had experiences in software, networks and systems administration. I recently completed my PhD in Machine Learning and Natural Language Processing (NLP) specializing in Biomedical Information Extraction at the University of Liverpool working with [Danushka Bollegala](https://danushka.net/), [Paula Williamson](https://www.liverpool.ac.uk/population-health/staff/paula-williamson/) and [Susanna Dodd](https://www.liverpool.ac.uk/population-health/staff/susanna-dodd/).
 
 ## Research Interests
 
@@ -26,16 +28,24 @@ Medicine.” In KDH@IJCAI, pp 1-5. 2019.  Micheal et al  [pdf](http://ceur-ws.or
 
 ## Teaching
 Taken on duties in a Teaching Assistant role on Computer Science Modules in  University of Liverpool 
-- Data Mining & Visualization (2019-2021)
-- Machine Learning and Bioinspired Optimization (2022)
-- Big Data Analysis (2019-2020)
-- Data Structures and Algorithms (2019-2022)
-- Scripting Languages (2019-2022)
-- Introduction to Artificial Intelligence (2021-2022)
+▪ Data Mining & Visualization (2019-2021)
+▪ Machine Learning and Bioinspired Optimization (2022)
+▪ Big Data Analysis (2019-2020)
+▪ Data Structures and Algorithms (2019-2022)
+▪ Scripting Languages (2019-2022)
+▪ Introduction to Artificial Intelligence (2021-2022)
 
-## Others
+## Honors and Awards
+▪ PhD Studentship, Deep Learning (Biomedical Natural Language Processing), 2018 – 2021
+▪ MSc Scholarship, Data Science and Analytics, Cardiff University, 2016 - 2017
+▪ Best Oral Presentation at the MSc Student and Modelling Fellow Programme 2017 Showcase Event, Aneurin Bevan University Health Board | NHS Wales.
+▪ Active Volunteer of the Mozilla project 2015 a part of the Mozilla Reps Program (2012-2016) under Mozilla Foundation.
+▪ Recognition certificate for project exhibition during the Makerere University College of Information Sciences Open Day Exhibition.
+
+## Professional
 Reviewer - Association for Computational Linguistics (ACL) Rolling Review (2021 - Present)
 
+## Professional
 Freelance Data Scientist
 
 ## Contacts
