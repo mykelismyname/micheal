@@ -28,6 +28,7 @@ Medicine.” In KDH@IJCAI, pp 1-5. 2019.  Micheal et al  [pdf](http://ceur-ws.or
 
 ## Teaching
 Taken on duties in a Teaching Assistant role on Computer Science Modules in  University of Liverpool 
+
 ▪ Data Mining & Visualization (2019-2021)
 
 ▪ Machine Learning and Bioinspired Optimization (2022)
@@ -45,7 +46,7 @@ Taken on duties in a Teaching Assistant role on Computer Science Modules in  Uni
 
 ▪ MSc Scholarship, Data Science and Analytics, Cardiff University, 2016 - 2017
 
-▪ Best Oral Presentation at the MSc Student and Modelling Fellow Programme 2017 Showcase Event, Aneurin Bevan University Health Board | NHS Wales.
+▪ Best Oral Presentation at the MSc Student and Modelling Fellow Programme 2017 Showcase Event, Aneurin Bevan University Health Board (NHS Wales).
 
 ▪ Active Volunteer of the Mozilla project 2015 a part of the Mozilla Reps Program (2012-2016) under Mozilla Foundation.
 
