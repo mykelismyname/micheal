@@ -55,7 +55,7 @@ Taken on duties in a Teaching Assistant role on Computer Science Modules in  Uni
 ## Professional
 Reviewer - Association for Computational Linguistics (ACL) Rolling Review (2021 - Present)
 
-## Professional
+## Others
 Freelance Data Scientist
 
 ## Contacts
