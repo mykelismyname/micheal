@@ -1,5 +1,7 @@
 I am currently working as a Research Scientist on [DynAIRx](https://www.liverpool.ac.uk/dynairx/) (Artificial Intelligence for dynamic prescribing optimisation and care integration in multimorbidity) and [MRIC](https://mric.uk/) (Mental Health for Research Innovation Center), both health data science project hosted at the [Civic Health Innovation Labs](https://www.liverpool.ac.uk/civic-health-innovation-labs/) based in Liverpool. Previously, I worked as a Natural Language Processing Research Scientist at [NEC Laboratories Europe (Heidelberg)](https://www.neclab.eu/). 
 
+I am also a member of the the ECR supported by the [AIM-RSF](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) under the Alan Turing Institute.
+
 Besides Machine learning, Data Science and Artificial Intelligence, I have in the past had experiences in software, networks and systems administration. I recently completed my PhD in Machine Learning and Natural Language Processing (NLP) specializing in Biomedical Information Extraction at the University of Liverpool working with [Danushka Bollegala](https://danushka.net/), [Paula Williamson](https://www.liverpool.ac.uk/population-health/staff/paula-williamson/) and [Susanna Dodd](https://www.liverpool.ac.uk/population-health/staff/susanna-dodd/).
 
 ## Research Interests
