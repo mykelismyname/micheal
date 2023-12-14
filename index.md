@@ -1,4 +1,4 @@
-I am currently working as Research Scientist on a health data Science project called DynAIRx at the university of liverpool. Previously worked as an NLP Research Scientist at [NEC Laboratories Europe (Heidelberg)](https://www.neclab.eu/). 
+I am currently working as a Research Scientist on [DynAIRx](https://www.liverpool.ac.uk/dynairx/) (Artificial Intelligence for dynamic prescribing optimisation and care integration in multimorbidity) and [MRIC](https://mric.uk/) (Mental Health for Research Innovation Center), both health data science project hosted at the [Civic Health Innovation Labs](https://www.liverpool.ac.uk/civic-health-innovation-labs/) based in Liverpool. Previously, I worked as a Natural Language Processing Research Scientist at [NEC Laboratories Europe (Heidelberg)](https://www.neclab.eu/). 
 
 Besides Machine learning, Data Science and Artificial Intelligence, I have in the past had experiences in software, networks and systems administration. I recently completed my PhD in Machine Learning and Natural Language Processing (NLP) specializing in Biomedical Information Extraction at the University of Liverpool working with [Danushka Bollegala](https://danushka.net/), [Paula Williamson](https://www.liverpool.ac.uk/population-health/staff/paula-williamson/) and [Susanna Dodd](https://www.liverpool.ac.uk/population-health/staff/susanna-dodd/).
 
@@ -7,7 +7,8 @@ Besides Machine learning, Data Science and Artificial Intelligence, I have in th
 My research interests span applications and topics pertaining to Machine learning and Natural language processing (NLP). I have particularly worked on problems such as information extraction, text generation and others with an objective of simplify the way humans understand and communicate through written text. I'm keen on Representation learning, Few-shot & Zero-shot learning, Multi-task learning, Natural Language Generation, Non-autoregressive language generation, Entity recognition, Prompt based learning, Information retrieval, Multi-label text classification etc.
 
 ## Recent works
-▪ “Towards Dense retrieval knowledge graph aumenaiton” Oct 2022, under review.
+▪ “Select and Augment: Enhanced Dense Retrieval Knowledge Graph Augmentation” Oct 2023, 
+Journal of Artificial Intelligence Research (JAIR), Vol 78 (2023), Micheal et al, [pdf](https://www.jair.org/index.php/jair/article/view/14365/26972).
 
 ▪ “Position-based Prompting for health outcome generation” In Biomedical Natural Language
 Process, ACL, May, 2022, Micheal et al, [pdf](https://arxiv.org/pdf/2204.03489.pdf)
