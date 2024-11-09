@@ -8,6 +8,9 @@ Besides Machine learning, Data Science and Artificial Intelligence, I have in th
 
 My research interests span applications and topics pertaining to Machine learning and Natural language processing (NLP). I have particularly worked on problems such as information extraction, text generation and others with an objective of simplifying the way humans understand and communicate through written text. I'm keen on Representation learning, Few-shot & Zero-shot learning, Multi-task learning, Natural Language Generation, Non-autoregressive language generation, Entity recognition, Prompt based learning, Information retrieval, Multi-label text classification etc.
 
+## News
+We are recruiting a PhD student on an NLP project, more details on the project for interested parties are [here](https://www.findaphd.com/phds/project/icase-natural-language-processing-for-outcome-detection-in-clinical-narrative-text/?p175717).
+
 ## Recent works
 ▪ “Improving Pre-trained Language Model Sensitivity via Mask Specific losses: A case study on Biomedical NER” 
 In 2024 [NAACL](https://2024.naacl.org/), June, 2024, Micheal et al, [pdf](https://arxiv.org/pdf/2403.18025)
