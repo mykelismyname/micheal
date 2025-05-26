@@ -1,15 +1,32 @@
-I am currently working as a Research Scientist on [DynAIRx](https://www.liverpool.ac.uk/dynairx/) (Artificial Intelligence for dynamic prescribing optimisation and care integration in multimorbidity) and [MRIC](https://mric.uk/) (Mental Health for Research Innovation Center), both health data science projects hosted at the [Civic Health Innovation Labs](https://www.liverpool.ac.uk/civic-health-innovation-labs/) based in Liverpool. Previously, I worked as a Natural Language Processing Research Scientist at [NEC Laboratories Europe (Heidelberg)](https://www.neclab.eu/). 
+I am Research Scientist at the [CHIL Lab](https://www.liverpool.ac.uk/civic-health-innovation-labs/)
+which brings together experts from the NHS (Merseycare Foundation Trust), University of Liverpool, Local government, Charities and other industry
+partners to tackle local and global health challenges using civic data and technology.
+
+My role contributes data science, AI (NLP) and Research expertise on health data Science projects, from ideation, conception
+and feasibility assessments to proof of concept, design and implementation. 
+Previously, I worked as an NLP Research Scientist at [NEC Laboratories Europe (Heidelberg)](https://www.neclab.eu/), where I 
+worked on Open Information Extraction in the healthcare space.
 
 I am also a member of the the ECR supported by the [AIM-RSF](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) under the Alan Turing Institute.
 
-Besides Machine learning, Data Science and Artificial Intelligence, I have in the past had experiences in software, networks and systems administration. I recently completed (2022) my PhD in Machine Learning and Natural Language Processing (NLP) specializing in Biomedical Information Extraction at the University of Liverpool working with [Danushka Bollegala](https://danushka.net/), [Paula Williamson](https://www.liverpool.ac.uk/population-health/staff/paula-williamson/) and [Susanna Dodd](https://www.liverpool.ac.uk/population-health/staff/susanna-dodd/).
+Besides Machine learning, Data Science and Artificial Intelligence, I have in the past had experiences in software, mobile app development, networks and systems
+administration and Open web activism through Mozilla Foundation.
+
+## Main projects
+- [MRIC](https://mric.uk/) 
+  - Developing digital resources (data and language models) to accelerate practical utility of categorical diagnosis and their codes in patient care delivery and data mining in EHRs.
+- [DynAIRx](https://www.liverpool.ac.uk/dynairx/our-research/) 
+  - Developing language models to determine which combination of drugs are most harmful to patients with multiple long term conditions
+- [Outcome Tracking] 
+  - To come
+- .....
 
 ## Research Interests
 
-My research interests span applications and topics pertaining to Machine learning and Natural language processing (NLP). I have particularly worked on problems such as information extraction, text generation and others with an objective of simplifying the way humans understand and communicate through written text. I'm keen on Representation learning, Few-shot & Zero-shot learning, Multi-task learning, Natural Language Generation, Non-autoregressive language generation, Entity recognition, Prompt based learning, Information retrieval, Multi-label text classification etc.
+My research interests span applications and topics pertinent to Machine learning and Natural language processing (NLP). I have particularly worked on problems such as information extraction, text generation and others with an objective of simplify the way humans understand and communicate through written text. I'm keen on Representation learning, Few-shot & Zero-shot learning, Multi-task learning, Natural Language Generation, Non-autoregressive language generation, Entity recognition, Prompt based learning, Information retrieval, Multi-label text classification etc.
 
 ## News
-We are recruiting a PhD student on an NLP project, more details on the project for interested parties are [here](https://www.findaphd.com/phds/project/icase-natural-language-processing-for-outcome-detection-in-clinical-narrative-text/?p175717).
+......
 
 ## Recent works
 ▪ “Improving Pre-trained Language Model Sensitivity via Mask Specific losses: A case study on Biomedical NER” 
@@ -31,9 +48,14 @@ European Journal for Biomedical Informatics, Micheal et al [pdf](https://bit.ly/
 Medicine.” In KDH@IJCAI, pp 1-5. 2019.  Micheal et al  [pdf](http://ceur-ws.org/Vol-2429/)
 
 ## Talks and Events
-- Medical Research council (MRC) Clinical training fellowship teaching on AI and its applications in health care (April 8 2022)
+> Talk: Clinial Information Extraction <br>
+  Event: Medical Research council SPF - Tackling Multimorbidity at Scale and NIHR Artificial Intelligence for MLTC (AIM) Impact Case Studies
+  
+> Talk: AI applications for healthcare <br>
+  Event: Medical Research council (MRC) Clinical training fellowship teaching on AI and its applications in health care (April 8 2022)
 
-- Monthly talks on Natural Language Processing applications, University of Liverpool, Jan 2019 – Present
+> Talk: Latest Research trends in NLP, AI <br>
+  Event: Natural Language Processing Research group, University of Liverpool, Jan 2019 – Present
 
 ## Previous Responsibilities
 Taken on duties in a Teaching Assistant role on Computer Science Modules in  University of Liverpool 
@@ -68,12 +90,10 @@ Reviewer - Association for Computational Linguistics (ACL) Rolling Review (2021 
 Freelance Data Scientist
 
 ## Contacts
-micheal.abaho@neclab.eu
-
-m.abaho@liverpool.ac.uk
+micheal.abaho@liverpool.ac.uk
 
 michealabaho265@gmail.com
 
 +44 7491574501
 
-Full CV: available [here](https://drive.google.com/file/d/1ilc19jXRwHChrtAbyYwUUKKnNgiZwxAo/view?usp=sharing)
+Full CV: available [here](https://drive.google.com/drive/u/0/folders/1uXzHerC2aWDfXetXaMHdXBxozuH1Vuoh)
