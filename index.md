@@ -96,4 +96,4 @@ michealabaho265@gmail.com
 
 +44 7491574501
 
-Full CV: available [here](https://drive.google.com/drive/u/0/folders/1uXzHerC2aWDfXetXaMHdXBxozuH1Vuoh)
+Full CV: available [here](https://drive.google.com/file/d/1sS6Xm7Kk1Gs1tVmmlgHi05YRqtuL240h/view?usp=sharing)
